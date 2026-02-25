@@ -13,5 +13,5 @@ print(z)
 #let's try with floats by using round
 x=float(input("What's x? "))
 y=float(input("What's y? "))
-z=round(x+y)
+z=int(x+y)
 print(z)
