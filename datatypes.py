@@ -16,4 +16,8 @@ y=float(input("What's y? "))
 z=round(x+y)
 print(z)
 
-#another method using 
+#another method using multiple datatypes
+x=float(input("What's x? "))
+y=float(input("What's y? "))
+z=int(x+y)
+print(z)
