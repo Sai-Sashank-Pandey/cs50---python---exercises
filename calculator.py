@@ -1,5 +1,5 @@
 x=int(input("What's x? "))
-operator=input("+,-,*,/")
+operator=input("Enter operator(+,-,*,/): ")
 y=int(input("What's y? "))
 match operator:
     case '+':print("Result = ",x+y)
