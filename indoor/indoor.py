@@ -1,2 +1,1 @@
-
-print("Hello World")
+x = input("Hello World")
