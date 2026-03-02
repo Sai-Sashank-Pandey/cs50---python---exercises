@@ -1,2 +1,2 @@
-x = input("Hello World")
+x = input("")
 print(x.casefold())
