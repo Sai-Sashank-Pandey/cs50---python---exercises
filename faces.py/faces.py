@@ -4,5 +4,5 @@ def convert(emo):
     return emo
 def main():
     x=input()
-    print(convert)
+    print(convert(x))
 main()
