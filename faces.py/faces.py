@@ -1,3 +1,5 @@
 def convert(emo):
-    replace(":)","🙂")
-    replace(":(","🙁")
+    return emo.replace(":)","🙂")
+    return emo.replace(":(","🙁")
+def main():
+    x=input()
