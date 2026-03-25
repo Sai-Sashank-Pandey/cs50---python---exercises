@@ -6,5 +6,3 @@ elif x==y:
     print("x is equal to y")
 elif x<y:
     print("x is less than y")
-else:
-    print("Invalid comparision")
