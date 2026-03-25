@@ -5,4 +5,4 @@ if x>y:
 elif x==y:
     print("x is equal to y")
 else:
-    print("x is greater than y")
+    print("x is less than y")
