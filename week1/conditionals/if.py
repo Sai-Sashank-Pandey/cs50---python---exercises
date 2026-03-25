@@ -1,8 +1,10 @@
-x=5;
-y=6;
+x=int(input("what's x? "))
+y=int(input("what's y? "))
 if x>y:
     print("x is greater than y")
 elif x==y:
     print("x is equal to y")
-else:
+elif x<y:
     print("x is less than y")
+else:
+    print("Invalid comparision")
