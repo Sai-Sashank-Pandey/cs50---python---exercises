@@ -4,5 +4,5 @@ if x>y:
     print("x is greater than y")
 elif x==y:
     print("x is equal to y")
-else
+else:
     print("x is greater than y")
