@@ -9,4 +9,6 @@ def is_even(n):
         return True
     else:
         return False
+'''another efficient way of writing this function is
+        return True if n % 2 == 0 else False'''
 main()
