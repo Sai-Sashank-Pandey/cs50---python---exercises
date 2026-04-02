@@ -17,7 +17,7 @@ def main():
         else:
             print("Enter valid no of players")
     else:
-        print("Enter valid dificulty or players")
+        print("Enter valid dificulty")
 
 def recommend(game):
     print("We recommend you,",game)
