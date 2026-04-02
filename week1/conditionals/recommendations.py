@@ -6,6 +6,8 @@ if difficulty == Hard:
     else:
         print("Resident Evil")
 else:
-    if difficulty == Hard:
-        
+    if players == Multiplayer:
+        print("Clash of clans")
+    else:
+        print("Granny")
 
