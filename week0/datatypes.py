@@ -2,7 +2,7 @@
 x=int(input("What's x? "))
 y=int(input("What's y? "))
 z=x+y
-print(z)
+print(type(z))
 
 #method-2 of using data types
 x=input("What's x? ")
