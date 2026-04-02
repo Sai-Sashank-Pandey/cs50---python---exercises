@@ -5,16 +5,20 @@ def main():
     if difficulty == "Hard":
          if players == "Multiplayer":
              recommend("Call of Duty")
-         else:
+         elif players == "Single player":
             recommend("Resident Evil")
-    elif:
+         else:
+             print("Enter valid no of players")
+    elif difficulty == "Easy":
         if players == "Multiplayer":
             recommend("Clash of clans")
-        else:
+        elif players == "Single player":
             recommend("Granny")
+        else:
+            print("Enter valid no of players")
     else:
-        print("Enter valid difficulty or players")
-        
+        print("Enter valid dificulty or players")
+
 def recommend(game):
     print("We recommend you,",game)
 
