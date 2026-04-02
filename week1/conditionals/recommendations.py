@@ -7,12 +7,14 @@ def main():
              recommend("Call of Duty")
          else:
             recommend("Resident Evil")
-    else:
+    elif:
         if players == "Multiplayer":
             recommend("Clash of clans")
         else:
             recommend("Granny")
-
+    else:
+        print("Enter valid difficulty or players")
+        
 def recommend(game):
     print("We recommend you,",game)
 
