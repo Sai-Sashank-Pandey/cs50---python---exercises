@@ -1,4 +1,4 @@
 a = input("Greeting: ").strip().lower()
-if a == "hello":
+if a in ["hello"]:
     print("0")
 
