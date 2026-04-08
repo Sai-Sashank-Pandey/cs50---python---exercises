@@ -1,4 +1,4 @@
-exp = int(input("Expression: "))
+exp =input("Expression: ")
 x, y, z = exp.split()
 if y == "+":
     
