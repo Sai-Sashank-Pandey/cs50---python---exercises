@@ -7,6 +7,8 @@ def main():
         print("lunch time")
     elif 18 <= t <= 19:
         print("dinner time")
+    else:
+        print("Not ideal time to consume food")
 
 def convert(time):
     hours,minutes = time.split(":")
