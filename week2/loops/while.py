@@ -1,4 +1,5 @@
 i=0
-while i in range(3):
-    print(i)
+while i<3:
+    print("sweeney")
     
+
