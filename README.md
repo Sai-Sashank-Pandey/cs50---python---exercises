@@ -24,6 +24,7 @@ week2/
 Each folder contains exercises and practice programs completed during the course.
 
 ## Technologies Used
+<<<<<<< HEAD
 
 * Python
 * Git
@@ -42,3 +43,10 @@ The goal of this repository is to:
 * Practice problem-solving
 * Build consistency in coding
 * Maintain a public record of my programming journey
+=======
+- Python
+- Git
+- GitHub
+
+Last updated: May 2026
+>>>>>>> 6d6f252 (Updated README)
