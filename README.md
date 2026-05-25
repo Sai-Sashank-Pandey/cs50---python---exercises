@@ -44,11 +44,5 @@ The goal of this repository is to:
 * Build consistency in coding
 * Maintain a public record of my programming journey
 
-## Technologies Used
-
-- Python
-- Git
-- GitHub
-
 Last updated: May 2026
 
