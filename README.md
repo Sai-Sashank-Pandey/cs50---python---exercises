@@ -24,7 +24,7 @@ week2/
 Each folder contains exercises and practice programs completed during the course.
 
 ## Technologies Used
-<<<<<<< HEAD
+
 
 * Python
 * Git
