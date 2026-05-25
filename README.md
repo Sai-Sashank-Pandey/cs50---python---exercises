@@ -43,10 +43,12 @@ The goal of this repository is to:
 * Practice problem-solving
 * Build consistency in coding
 * Maintain a public record of my programming journey
-=======
+
+## Technologies Used
+
 - Python
 - Git
 - GitHub
 
 Last updated: May 2026
->>>>>>> 6d6f252 (Updated README)
+
